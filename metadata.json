@@ -1,0 +1,6 @@
+{
+  "name": "Bhu-Lekh with Blockchain",
+  "description": "Bhu-Lekh with Blockchain is a blockchain-based land registry demo for secure property records, ownership verification, and transparent title transfer workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
